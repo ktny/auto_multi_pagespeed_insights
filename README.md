@@ -1,0 +1,2 @@
+# auto_multi_pagespeed_insights
+GooglePageSpeedInsightsで複数サイトの表示速度を自動で集計するGoogleAppsScript
